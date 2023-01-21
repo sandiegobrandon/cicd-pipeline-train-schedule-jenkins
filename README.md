@@ -15,4 +15,3 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 #Updated for 2023!
-[![Build Status](http://192.168.1.190:8080/buildStatus/icon?job=train-schedule)](http://192.168.1.190:8080/job/train-schedule/)
