@@ -1,11 +1,6 @@
-buildscript {
-    dependencies {
-        classpath "com.github.node-gradle:gradle-node-plugin:3.1.0"
-    }
-}
-
 plugins {
-    id 'com.github.node-gradle.node'
+  //inlude the nodeJS plugin to execute nodejs and npm tasks
+  id "com.moowork.node" version "1.2.0"
 }
 
 node {
